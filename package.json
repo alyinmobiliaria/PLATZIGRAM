@@ -1,4 +1,25 @@
 {
-  "name": "",
-  "version": ""
+  "name": "Platzigram",
+  "version": "0.1.0",
+  "description": "Comparte tus fotos estudiando en Platzi con el resto de la comunidad",
+  "entry point": "server.js",
+  "git repository": "https://github.com/alyinmobiliaria/PLATZIGRAM",
+  "keywords": [
+    "platzi",
+    "javascript",
+    "curso-definitivo",
+    "platzigram"
+  ],
+  "autor": "@EL4400J",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1",
+    "materialize-css": "^0.97.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  }
 }
